@@ -1,5 +1,5 @@
 def option_one_action():
-    """Function to execute when Option 1 is chosen."""
+    """Function to execute when Option 1 is chosen yay."""
     print("You selected Option 1:")
     num1, num2 = map(int, input("Enter two numbers separated by a space: ").split())
     num_result = num1 + num2
